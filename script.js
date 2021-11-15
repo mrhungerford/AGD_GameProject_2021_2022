@@ -13,6 +13,7 @@ var y2 = 100;
 var w2 = 20;
 var h2 = 20;
 //updating stuff to test push 
+//some more comments
 //input variables
 var left  = false;
 var right = false;
