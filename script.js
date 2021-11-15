@@ -12,7 +12,8 @@ var x2 = 200;
 var y2 = 100;
 var w2 = 20;
 var h2 = 20;
-
+//updating stuff to test push 
+//some more comments
 //input variables
 var left  = false;
 var right = false;
@@ -203,8 +204,8 @@ document.addEventListener("keyup",keyUpHandler,false);
 function draw(){
   ctx.clearRect(0,0,canvas.width,canvas.height);
   
-  drawBox(x1,y1,w1,h1,"red",fill);
-  drawBox(x2,y2,w2,h2,"blue",fill);
+  drawBox(x1,y1,w1,h1,"green",fill);
+  drawBox(x2,y2,w2,h2,"black",fill);
   moveBoxes();
   
   
