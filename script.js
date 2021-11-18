@@ -1,7 +1,7 @@
 //screen variables
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
-
+//changed some stuff!!!
 //box #2 RED
 var x1 = 300;
 var y1 = 50;
